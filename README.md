@@ -188,9 +188,7 @@ AranyaLink/
 ├── AranyaLink_GCS/
 │   └── AranyaLink_GCS.ino      # Ground Control Station sketch
 ├── docs/
-│   ├── wiring_diagram.png
-│   ├── network_topology.png
-│   └── gcs_output_example.png
+│   └── wiring_diagram.png
 ├── README.md
 └── LICENSE
 ```
@@ -229,7 +227,7 @@ If you deploy AranyaLink anywhere, please open an issue tagged `deployment` and 
 
 ## Links
 
-- 📖 Full Instructables build guide — *[link]*
+- 📖 Full Instructables build guide — *[https://www.instructables.com/AranyaLink-Open-Source-Forest-Fire-Detection-Mesh-/]*
 
 ---
 
