@@ -188,7 +188,7 @@ AranyaLink/
 ├── AranyaLink_GCS/
 │   └── AranyaLink_GCS.ino      # Ground Control Station sketch
 ├── docs/
-│   └── wiring_diagram.png
+│   └── wiring_diagram.jpg
 ├── README.md
 └── LICENSE
 ```
