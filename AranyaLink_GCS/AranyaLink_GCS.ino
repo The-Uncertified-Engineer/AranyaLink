@@ -1,9 +1,17 @@
 /*
+ * +==========================================================+
+ * |     _                                _     _       _     |
+ * |    / \   _ __ __ _ _ __  _   _  __ _| |   (_)_ __ | | __ |
+ * |   / _ \ | '__/ _` | '_ \| | | |/ _` | |   | | '_ \| |/ / |
+ * |  / ___ \| | | (_| | | | | |_| | (_| | |___| | | | |   <  |
+ * | /_/   \_\_|  \__,_|_| |_|\__, |\__,_|_____|_|_| |_|_|\_\ |
+ * |                          |___/                           |
+ * +==========================================================+
+ *
  * AranyaLink — Ground Control Station (GCS)
  * Role     : Passive ESP-NOW receiver. Logs all wildfire alerts to Serial.
  * No sensors, no peers needed. Flash this to a dedicated ESP32 connected to a PC.
  * Open Serial Monitor at 115200 baud to view incoming alerts.
- * Libraries: WiFi.h | esp_now.h
  */
 
 #include <WiFi.h>
