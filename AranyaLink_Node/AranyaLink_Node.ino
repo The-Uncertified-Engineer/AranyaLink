@@ -1,8 +1,16 @@
 /*
+ * +==========================================================+
+ * |     _                                _     _       _     |
+ * |    / \   _ __ __ _ _ __  _   _  __ _| |   (_)_ __ | | __ |
+ * |   / _ \ | '__/ _` | '_ \| | | |/ _` | |   | | '_ \| |/ / |
+ * |  / ___ \| | | (_| | | | | |_| | (_| | |___| | | | |   <  |
+ * | /_/   \_\_|  \__,_|_| |_|\__, |\__,_|_____|_|_| |_|_|\_\ |
+ * |                          |___/                           |
+ * +==========================================================+
+ *
  * AranyaLink — Wildfire Detection Mesh Node
  * Sensors  : DHT11 (GPIO 23) | IR Flame Sensor (GPIO 25) | Neo-6M GPS (GPIO 16/17)
  * Network  : ESP-NOW broadcast mesh with loop-prevention and multi-node verification
- * Libraries: WiFi.h | esp_now.h | DHT.h (Adafruit) | TinyGPSPlus.h (Mikal Hart)
  */
 
 #include <WiFi.h>
